@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, #root {
+  background-color: #f1f4f8;
+  width: 100vw;
+  height: 100vh;
+}
+
+.canvas-container {
+  width: 100%;
+  height: 100%;
+  background-image: url('/assets/images/stars_milky_way.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
